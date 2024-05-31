@@ -1,6 +1,0 @@
-- Evaluation and improvement of dvorak keyboard layout using CADwork.
-	- Udosen, U. J.
-	- Advanced Materials Research 62 (2009): 585-591.
-- TODO
-- TODO
-- TODO

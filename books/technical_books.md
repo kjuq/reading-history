@@ -316,3 +316,19 @@ Linux をコマンドラインから操作する際のノウハウを教えて�
 - 監訳者名: IPUSIRON
 - マイナビ出版
 - https://book.mynavi.jp/ec/products/detail/id=141365
+
+# 新しい Linux の教科書
+
+https://www.sbcr.jp/product/4815624316/
+
+# サイバーセキュリティの教科書
+
+https://book.mynavi.jp/manatee/books/detail/id=141367
+
+# 情報理論
+
+https://www.chikumashobo.co.jp/product/9784480093585/
+
+# SQL 第 2 版ゼロからはじめるデータベース操作
+
+https://www.seshop.com/product/detail/19054
